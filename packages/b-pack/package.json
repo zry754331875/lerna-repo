@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "545355bfbdb663c25e39198fa25949ae4c484045"
+  "gitHead": "795d1fae4a08b27779a7009ad1b0e3df48c4044d"
 }
