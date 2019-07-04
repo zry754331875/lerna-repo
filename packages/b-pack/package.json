@@ -1,5 +1,5 @@
 {
-  "name": "b-pack",
+  "name": "@zry754331875/b-pack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "a-pack": "^1.0.0"
+    "@zry754331875/a-pack": "^1.0.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "a6783d6f6246bf3a6f1aa08f7b7680801a5541d8"
 }

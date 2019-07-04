@@ -1,5 +1,5 @@
 {
-  "name": "a-pack",
+  "name": "@zry754331875/a-pack",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -10,5 +10,6 @@
     "lodash": "^4.17.11"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "a6783d6f6246bf3a6f1aa08f7b7680801a5541d8"
 }
